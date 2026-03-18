@@ -10,6 +10,7 @@ Leetcode DSA Questions
 | [0073-set-matrix-zeroes](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0220-contains-duplicate-iii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0220-contains-duplicate-iii) |
@@ -43,6 +44,7 @@ Leetcode DSA Questions
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0561-array-partition) |
@@ -65,6 +67,7 @@ Leetcode DSA Questions
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0095-unique-binary-search-trees-ii) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Backtracking
 |  |
 | ------- |
