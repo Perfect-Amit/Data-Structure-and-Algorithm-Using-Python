@@ -46,6 +46,7 @@ Leetcode DSA Questions
 | [0412-fizz-buzz](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0445-add-two-numbers-ii) |
+| [0492-construct-the-rectangle](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0492-construct-the-rectangle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0628-maximum-product-of-three-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
