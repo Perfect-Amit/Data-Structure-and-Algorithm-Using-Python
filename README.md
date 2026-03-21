@@ -17,6 +17,7 @@ Leetcode DSA Questions
 | [0215-kth-largest-element-in-an-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0220-contains-duplicate-iii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0220-contains-duplicate-iii) |
 | [0274-h-index](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0274-h-index) |
+| [0300-longest-increasing-subsequence](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0354-russian-doll-envelopes) |
 | [0414-third-maximum-number](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0436-find-right-interval) |
@@ -57,6 +58,7 @@ Leetcode DSA Questions
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0162-find-peak-element) |
+| [0300-longest-increasing-subsequence](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0354-russian-doll-envelopes) |
 | [0436-find-right-interval](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0436-find-right-interval) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -88,6 +90,7 @@ Leetcode DSA Questions
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0095-unique-binary-search-trees-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0354-russian-doll-envelopes) |
 ## Backtracking
 |  |
