@@ -28,6 +28,7 @@ Leetcode DSA Questions
 | [0500-keyboard-row](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0561-array-partition) |
+| [0575-distribute-candies](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0628-maximum-product-of-three-numbers) |
 | [0697-degree-of-an-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0724-find-pivot-index) |
@@ -56,6 +57,7 @@ Leetcode DSA Questions
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0575-distribute-candies) |
 | [0697-degree-of-an-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0697-degree-of-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1636-sort-array-by-increasing-frequency) |
