@@ -33,6 +33,7 @@ Leetcode DSA Questions
 | [0645-set-mismatch](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1441-build-an-array-with-stack-operations) |
@@ -62,6 +63,7 @@ Leetcode DSA Questions
 | [0575-distribute-candies](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0697-degree-of-an-array) |
+| [0705-design-hashset](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0705-design-hashset) |
 | [1512-number-of-good-pairs](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1656-design-an-ordered-stream](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1656-design-an-ordered-stream) |
@@ -182,6 +184,7 @@ Leetcode DSA Questions
 | [0148-sort-list](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0160-intersection-of-two-linked-lists) |
 | [0445-add-two-numbers-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0445-add-two-numbers-ii) |
+| [0705-design-hashset](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0705-design-hashset) |
 ## Two Pointers
 |  |
 | ------- |
@@ -246,6 +249,7 @@ Leetcode DSA Questions
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0295-find-median-from-data-stream) |
+| [0705-design-hashset](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0705-design-hashset) |
 | [1656-design-an-ordered-stream](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1656-design-an-ordered-stream) |
 ## Data Stream
 |  |
@@ -279,4 +283,8 @@ Leetcode DSA Questions
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0645-set-mismatch) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
