@@ -39,6 +39,7 @@ Leetcode DSA Questions
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0819-most-common-word](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0819-most-common-word) |
+| [0821-shortest-distance-to-a-character](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0821-shortest-distance-to-a-character) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1441-build-an-array-with-stack-operations) |
 | [1512-number-of-good-pairs](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -203,6 +204,7 @@ Leetcode DSA Questions
 | [0295-find-median-from-data-stream](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0541-reverse-string-ii) |
+| [0821-shortest-distance-to-a-character](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0821-shortest-distance-to-a-character) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -229,6 +231,7 @@ Leetcode DSA Questions
 | [0500-keyboard-row](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0500-keyboard-row) |
 | [0541-reverse-string-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0541-reverse-string-ii) |
 | [0819-most-common-word](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0819-most-common-word) |
+| [0821-shortest-distance-to-a-character](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0821-shortest-distance-to-a-character) |
 ## Quickselect
 |  |
 | ------- |
