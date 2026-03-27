@@ -48,6 +48,7 @@ Leetcode DSA Questions
 | [1652-defuse-the-bomb](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1652-defuse-the-bomb) |
 | [1656-design-an-ordered-stream](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1656-design-an-ordered-stream) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2951-find-the-peaks](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2951-find-the-peaks) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Hash Table
@@ -304,4 +305,8 @@ Leetcode DSA Questions
 | ------- |
 | [0705-design-hashset](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0706-design-hashmap) |
+## Enumeration
+|  |
+| ------- |
+| [2951-find-the-peaks](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2951-find-the-peaks) |
 <!---LeetCode Topics End-->
