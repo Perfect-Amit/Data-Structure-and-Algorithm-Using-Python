@@ -57,6 +57,7 @@ Leetcode DSA Questions
 | [2951-find-the-peaks](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2951-find-the-peaks) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@ Leetcode DSA Questions
 | [1512-number-of-good-pairs](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1656-design-an-ordered-stream](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1656-design-an-ordered-stream) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Math
 |  |
 | ------- |
@@ -123,6 +125,7 @@ Leetcode DSA Questions
 | [0506-relative-ranks](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0506-relative-ranks) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Matrix
 |  |
 | ------- |
@@ -212,6 +215,7 @@ Leetcode DSA Questions
 | [0706-design-hashmap](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -273,6 +277,7 @@ Leetcode DSA Questions
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0220-contains-duplicate-iii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Counting Sort
 |  |
 | ------- |
@@ -307,6 +312,7 @@ Leetcode DSA Questions
 | [1441-build-an-array-with-stack-operations](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1441-build-an-array-with-stack-operations) |
 | [2460-apply-operations-to-an-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2460-apply-operations-to-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -333,4 +339,8 @@ Leetcode DSA Questions
 |  |
 | ------- |
 | [2951-find-the-peaks](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2951-find-the-peaks) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
