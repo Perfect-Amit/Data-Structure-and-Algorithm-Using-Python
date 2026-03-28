@@ -25,6 +25,7 @@ Leetcode DSA Questions
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0561-array-partition) |
@@ -71,6 +72,7 @@ Leetcode DSA Questions
 | [0409-longest-palindrome](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0645-set-mismatch) |
@@ -303,6 +305,7 @@ Leetcode DSA Questions
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0496-next-greater-element-i) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1441-build-an-array-with-stack-operations) |
 ## Simulation
 |  |
@@ -343,4 +346,8 @@ Leetcode DSA Questions
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
