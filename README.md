@@ -272,6 +272,7 @@ Leetcode DSA Questions
 | [0819-most-common-word](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0821-shortest-distance-to-a-character) |
 | [2573-find-the-string-with-lcp](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2573-find-the-string-with-lcp) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Quickselect
 |  |
 | ------- |
