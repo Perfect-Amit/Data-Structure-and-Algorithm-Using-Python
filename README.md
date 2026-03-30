@@ -23,6 +23,7 @@ Leetcode DSA Questions
 | [0300-longest-increasing-subsequence](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0354-russian-doll-envelopes) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0414-third-maximum-number](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0436-find-right-interval) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -135,6 +136,7 @@ Leetcode DSA Questions
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0295-find-median-from-data-stream) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0506-relative-ranks) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
