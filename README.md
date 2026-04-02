@@ -70,6 +70,7 @@ Leetcode DSA Questions
 | [2951-find-the-peaks](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2951-find-the-peaks) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
 |  |
@@ -159,6 +160,7 @@ Leetcode DSA Questions
 | [2573-find-the-string-with-lcp](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2573-find-the-string-with-lcp) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -170,6 +172,7 @@ Leetcode DSA Questions
 | [0518-coin-change-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0518-coin-change-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2573-find-the-string-with-lcp](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2573-find-the-string-with-lcp) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Backtracking
 |  |
 | ------- |
