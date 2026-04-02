@@ -7,6 +7,7 @@ Leetcode DSA Questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0001-two-sum) |
+| [0039-combination-sum](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0039-combination-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -176,6 +177,7 @@ Leetcode DSA Questions
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0039-combination-sum) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0095-unique-binary-search-trees-ii) |
 ## Tree
 |  |
