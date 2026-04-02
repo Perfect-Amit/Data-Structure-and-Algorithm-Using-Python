@@ -19,6 +19,7 @@ Leetcode DSA Questions
 | [0179-largest-number](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0220-contains-duplicate-iii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0220-contains-duplicate-iii) |
+| [0239-sliding-window-maximum](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0289-game-of-life) |
@@ -139,6 +140,7 @@ Leetcode DSA Questions
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0451-sort-characters-by-frequency) |
@@ -299,6 +301,7 @@ Leetcode DSA Questions
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0076-minimum-window-substring) |
 | [0220-contains-duplicate-iii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0220-contains-duplicate-iii) |
+| [0239-sliding-window-maximum](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0594-longest-harmonious-subsequence) |
 | [1652-defuse-the-bomb](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1652-defuse-the-bomb) |
 ## Bucket Sort
@@ -391,4 +394,12 @@ Leetcode DSA Questions
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0322-coin-change) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
