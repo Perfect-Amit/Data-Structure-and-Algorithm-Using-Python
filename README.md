@@ -49,6 +49,7 @@ Leetcode DSA Questions
 | [0724-find-pivot-index](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0748-shortest-completing-word](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0748-shortest-completing-word) |
 | [0819-most-common-word](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0821-shortest-distance-to-a-character) |
 | [0905-sort-array-by-parity](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0905-sort-array-by-parity) |
@@ -94,6 +95,7 @@ Leetcode DSA Questions
 | [0697-degree-of-an-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0706-design-hashmap) |
+| [0748-shortest-completing-word](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0748-shortest-completing-word) |
 | [0819-most-common-word](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0819-most-common-word) |
 | [1122-relative-sort-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1122-relative-sort-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -292,6 +294,7 @@ Leetcode DSA Questions
 | [0451-sort-characters-by-frequency](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0500-keyboard-row) |
 | [0541-reverse-string-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0541-reverse-string-ii) |
+| [0748-shortest-completing-word](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0748-shortest-completing-word) |
 | [0819-most-common-word](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0821-shortest-distance-to-a-character) |
 | [2573-find-the-string-with-lcp](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2573-find-the-string-with-lcp) |
