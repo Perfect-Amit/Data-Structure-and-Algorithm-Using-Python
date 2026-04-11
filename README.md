@@ -382,6 +382,7 @@ Leetcode DSA Questions
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0207-course-schedule](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Bit Manipulation
 |  |
@@ -409,6 +410,7 @@ Leetcode DSA Questions
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0322-coin-change) |
 ## Queue
 |  |
@@ -418,4 +420,12 @@ Leetcode DSA Questions
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0239-sliding-window-maximum) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
