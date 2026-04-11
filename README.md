@@ -174,6 +174,7 @@ Leetcode DSA Questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0087-scramble-string](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0087-scramble-string) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0095-unique-binary-search-trees-ii) |
 | [0115-distinct-subsequences](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -293,6 +294,7 @@ Leetcode DSA Questions
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0076-minimum-window-substring) |
+| [0087-scramble-string](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0179-largest-number) |
