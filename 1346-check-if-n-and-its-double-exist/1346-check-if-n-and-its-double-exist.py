@@ -6,8 +6,6 @@ class Solution:
                     continue
                 elif arr[j]*2 != arr[i]:
                     continue
-                elif arr[i] == 0 and arr[j] == 0 and i != j:
-                    return True
                 else:
                     return True
         return False
