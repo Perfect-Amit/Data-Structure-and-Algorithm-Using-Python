@@ -319,6 +319,7 @@ Leetcode DSA Questions
 ## String
 |  |
 | ------- |
+| [0065-valid-number](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0065-valid-number) |
 | [0076-minimum-window-substring](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0115-distinct-subsequences) |
