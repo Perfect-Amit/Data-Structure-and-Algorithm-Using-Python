@@ -344,6 +344,7 @@ Leetcode DSA Questions
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2573-find-the-string-with-lcp](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2573-find-the-string-with-lcp) |
+| [2833-furthest-point-from-origin](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Quickselect
@@ -382,6 +383,7 @@ Leetcode DSA Questions
 | [1512-number-of-good-pairs](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1742-maximum-number-of-balls-in-a-box) |
+| [2833-furthest-point-from-origin](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2833-furthest-point-from-origin) |
 ## Design
 |  |
 | ------- |
