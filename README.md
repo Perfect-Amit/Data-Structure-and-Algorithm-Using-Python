@@ -45,6 +45,7 @@ Leetcode DSA Questions
 | [0598-range-addition-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0645-set-mismatch) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0704-binary-search) |
