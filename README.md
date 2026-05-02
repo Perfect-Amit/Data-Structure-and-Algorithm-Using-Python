@@ -44,6 +44,7 @@ Leetcode DSA Questions
 | [0594-longest-harmonious-subsequence](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0705-design-hashset) |
@@ -415,6 +416,7 @@ Leetcode DSA Questions
 | [0227-basic-calculator-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0227-basic-calculator-ii) |
 | [0445-add-two-numbers-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0682-baseball-game) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1441-build-an-array-with-stack-operations) |
 ## Simulation
 |  |
@@ -422,6 +424,7 @@ Leetcode DSA Questions
 | [0289-game-of-life](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0682-baseball-game) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1441-build-an-array-with-stack-operations) |
 | [2460-apply-operations-to-an-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2460-apply-operations-to-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
