@@ -203,6 +203,7 @@ Leetcode DSA Questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0087-scramble-string) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0095-unique-binary-search-trees-ii) |
 | [0115-distinct-subsequences](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0115-distinct-subsequences) |
@@ -339,6 +340,7 @@ Leetcode DSA Questions
 |  |
 | ------- |
 | [0065-valid-number](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0065-valid-number) |
+| [0072-edit-distance](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0115-distinct-subsequences) |
