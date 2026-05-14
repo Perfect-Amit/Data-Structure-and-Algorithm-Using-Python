@@ -136,6 +136,7 @@ Leetcode DSA Questions
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0062-unique-paths) |
 | [0224-basic-calculator](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0227-basic-calculator-ii) |
 | [0412-fizz-buzz](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0412-fizz-buzz) |
@@ -205,6 +206,7 @@ Leetcode DSA Questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0087-scramble-string) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0095-unique-binary-search-trees-ii) |
@@ -514,4 +516,8 @@ Leetcode DSA Questions
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0493-reverse-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
