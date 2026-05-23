@@ -201,6 +201,7 @@ Leetcode DSA Questions
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
 ## Matrix
 |  |
 | ------- |
@@ -521,6 +522,7 @@ Leetcode DSA Questions
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0207-course-schedule) |
+| [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
 ## Topological Sort
 |  |
 | ------- |
@@ -541,4 +543,8 @@ Leetcode DSA Questions
 |  |
 | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Shortest Path
+|  |
+| ------- |
+| [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
 <!---LeetCode Topics End-->
