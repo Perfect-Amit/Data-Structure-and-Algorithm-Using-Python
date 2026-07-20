@@ -61,6 +61,7 @@ Leetcode DSA Questions
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0748-shortest-completing-word](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0748-shortest-completing-word) |
 | [0806-number-of-lines-to-write-string](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0806-number-of-lines-to-write-string) |
+| [0812-largest-triangle-area](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0812-largest-triangle-area) |
 | [0819-most-common-word](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0821-shortest-distance-to-a-character) |
 | [0888-fair-candy-swap](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0888-fair-candy-swap) |
@@ -156,6 +157,7 @@ Leetcode DSA Questions
 | [0598-range-addition-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0788-rotated-digits) |
+| [0812-largest-triangle-area](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0812-largest-triangle-area) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -550,4 +552,8 @@ Leetcode DSA Questions
 |  |
 | ------- |
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
