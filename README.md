@@ -64,6 +64,7 @@ Leetcode DSA Questions
 | [0812-largest-triangle-area](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0812-largest-triangle-area) |
 | [0819-most-common-word](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0821-shortest-distance-to-a-character) |
+| [0877-stone-game](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0922-sort-array-by-parity-ii) |
@@ -159,6 +160,7 @@ Leetcode DSA Questions
 | [0628-maximum-product-of-three-numbers](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0788-rotated-digits) |
 | [0812-largest-triangle-area](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0812-largest-triangle-area) |
+| [0877-stone-game](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0877-stone-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -238,6 +240,7 @@ Leetcode DSA Questions
 | [0403-frog-jump](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0403-frog-jump) |
 | [0518-coin-change-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0518-coin-change-ii) |
 | [0788-rotated-digits](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0877-stone-game) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2573-find-the-string-with-lcp](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2573-find-the-string-with-lcp) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -568,4 +571,16 @@ Leetcode DSA Questions
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
