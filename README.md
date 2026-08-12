@@ -93,6 +93,7 @@ Leetcode DSA Questions
 | [2784-check-if-array-is-good](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2784-check-if-array-is-good) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2951-find-the-peaks](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2951-find-the-peaks) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -144,6 +145,7 @@ Leetcode DSA Questions
 | [2615-sum-of-distances](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -433,6 +435,7 @@ Leetcode DSA Questions
 | [0239-sliding-window-maximum](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0594-longest-harmonious-subsequence) |
 | [1652-defuse-the-bomb](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1652-defuse-the-bomb) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
