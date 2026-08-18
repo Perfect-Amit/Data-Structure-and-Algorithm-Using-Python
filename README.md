@@ -11,6 +11,7 @@ Leetcode DSA Questions
 | [0039-combination-sum](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0039-combination-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -239,6 +240,7 @@ Leetcode DSA Questions
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0079-word-search) |
 | [0289-game-of-life](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0289-game-of-life) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -273,6 +275,7 @@ Leetcode DSA Questions
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0095-unique-binary-search-trees-ii) |
@@ -409,6 +412,7 @@ Leetcode DSA Questions
 | [0065-valid-number](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0065-valid-number) |
 | [0072-edit-distance](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0087-scramble-string) |
 | [0093-restore-ip-addresses](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0115-distinct-subsequences) |
@@ -532,6 +536,7 @@ Leetcode DSA Questions
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0207-course-schedule](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0207-course-schedule) |
