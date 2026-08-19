@@ -78,6 +78,7 @@ Leetcode DSA Questions
 | [1331-rank-transform-of-an-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1386-cinema-seat-allocation](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1441-build-an-array-with-stack-operations) |
 | [1512-number-of-good-pairs](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1512-number-of-good-pairs) |
@@ -142,6 +143,7 @@ Leetcode DSA Questions
 | [1122-relative-sort-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1386-cinema-seat-allocation](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1512-number-of-good-pairs) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1624-largest-substring-between-two-equal-characters) |
@@ -220,6 +222,7 @@ Leetcode DSA Questions
 | [0409-longest-palindrome](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0561-array-partition) |
+| [1386-cinema-seat-allocation](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2029-stone-game-ix) |
 | [2573-find-the-string-with-lcp](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2573-find-the-string-with-lcp) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -550,6 +553,7 @@ Leetcode DSA Questions
 | [0137-single-number-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0137-single-number-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0645-set-mismatch) |
+| [1386-cinema-seat-allocation](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1386-cinema-seat-allocation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Function
