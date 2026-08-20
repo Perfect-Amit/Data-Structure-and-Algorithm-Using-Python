@@ -1,0 +1,13 @@
+class Solution:
+    def resultArray(self, nums: List[int]) -> List[int]:
+        n = len(nums)
+        arr1 = [nums[0]]
+        arr2 = [nums[1]]
+        res = []
+        for i in range(2,n):
+            if arr1[len(arr1)-1] > arr2[len(arr2)-1]:
+                arr1.append(nums[i])
+            else:
+                arr2.append(nums[i])
+        res = arr1+arr2
+        return res
