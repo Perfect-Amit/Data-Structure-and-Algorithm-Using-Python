@@ -321,6 +321,7 @@ Leetcode DSA Questions
 | [0113-path-sum-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -340,6 +341,7 @@ Leetcode DSA Questions
 | [0113-path-sum-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -579,6 +581,7 @@ Leetcode DSA Questions
 | [0129-sum-root-to-leaf-numbers](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0207-course-schedule](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0637-average-of-levels-in-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3310-remove-methods-from-project) |
 ## Bit Manipulation
 |  |
@@ -615,6 +618,7 @@ Leetcode DSA Questions
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0207-course-schedule](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0322-coin-change) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0637-average-of-levels-in-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3310-remove-methods-from-project) |
 ## Queue
 |  |
