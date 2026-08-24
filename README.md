@@ -571,6 +571,7 @@ Leetcode DSA Questions
 | [0129-sum-root-to-leaf-numbers](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0207-course-schedule](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [3310-remove-methods-from-project](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3310-remove-methods-from-project) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -606,6 +607,7 @@ Leetcode DSA Questions
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0207-course-schedule](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0322-coin-change) |
+| [3310-remove-methods-from-project](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3310-remove-methods-from-project) |
 ## Queue
 |  |
 | ------- |
@@ -618,6 +620,7 @@ Leetcode DSA Questions
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0207-course-schedule) |
+| [3310-remove-methods-from-project](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3310-remove-methods-from-project) |
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
 ## Topological Sort
 |  |
