@@ -90,6 +90,7 @@ Leetcode DSA Questions
 | [1684-count-the-number-of-consistent-strings](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1872-stone-game-viii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -192,6 +193,7 @@ Leetcode DSA Questions
 | [1512-number-of-good-pairs](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1742-maximum-number-of-balls-in-a-box) |
+| [1872-stone-game-viii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1927-sum-game](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -287,6 +289,7 @@ Leetcode DSA Questions
 | [1140-stone-game-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1510-stone-game-iv) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1872-stone-game-viii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1872-stone-game-viii) |
 | [2573-find-the-string-with-lcp](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2573-find-the-string-with-lcp) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Backtracking
@@ -372,6 +375,7 @@ Leetcode DSA Questions
 | [1140-stone-game-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1140-stone-game-ii) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2615-sum-of-distances](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2615-sum-of-distances) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -654,6 +658,7 @@ Leetcode DSA Questions
 | [0877-stone-game](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
@@ -661,6 +666,7 @@ Leetcode DSA Questions
 | [0877-stone-game](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
@@ -669,6 +675,7 @@ Leetcode DSA Questions
 | [0877-stone-game](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
