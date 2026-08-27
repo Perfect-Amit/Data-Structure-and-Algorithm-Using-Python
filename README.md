@@ -174,6 +174,7 @@ Leetcode DSA Questions
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3731-find-missing-elements) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Math
@@ -254,6 +255,7 @@ Leetcode DSA Questions
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -495,6 +497,7 @@ Leetcode DSA Questions
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Quickselect
 |  |
 | ------- |
@@ -540,6 +543,7 @@ Leetcode DSA Questions
 | [2833-furthest-point-from-origin](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2833-furthest-point-from-origin) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Design
 |  |
 | ------- |
@@ -616,6 +620,7 @@ Leetcode DSA Questions
 | ------- |
 | [2951-find-the-peaks](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Doubly-Linked List
 |  |
 | ------- |
