@@ -160,6 +160,7 @@ Leetcode DSA Questions
 | [0929-unique-email-addresses](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0929-unique-email-addresses) |
 | [1002-find-common-characters](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1122-relative-sort-array) |
+| [1189-maximum-number-of-balloons](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1386-cinema-seat-allocation](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1386-cinema-seat-allocation) |
@@ -510,6 +511,7 @@ Leetcode DSA Questions
 | [0884-uncommon-words-from-two-sentences](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0929-unique-email-addresses](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0929-unique-email-addresses) |
 | [1002-find-common-characters](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1002-find-common-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1189-maximum-number-of-balloons) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1927-sum-game](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1927-sum-game) |
@@ -566,6 +568,7 @@ Leetcode DSA Questions
 | [0819-most-common-word](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1122-relative-sort-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1122-relative-sort-array) |
+| [1189-maximum-number-of-balloons](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1684-count-the-number-of-consistent-strings) |
