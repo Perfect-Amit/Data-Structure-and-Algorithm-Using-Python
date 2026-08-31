@@ -205,6 +205,7 @@ Leetcode DSA Questions
 | [0445-add-two-numbers-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0492-construct-the-rectangle) |
+| [0504-base-7](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0509-fibonacci-number) |
 | [0598-range-addition-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0628-maximum-product-of-three-numbers) |
@@ -504,6 +505,7 @@ Leetcode DSA Questions
 | [0451-sort-characters-by-frequency](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0451-sort-characters-by-frequency) |
 | [0482-license-key-formatting](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0500-keyboard-row) |
+| [0504-base-7](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0504-base-7) |
 | [0541-reverse-string-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0541-reverse-string-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0748-shortest-completing-word](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0748-shortest-completing-word) |
