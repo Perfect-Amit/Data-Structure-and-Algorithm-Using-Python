@@ -439,6 +439,7 @@ Leetcode DSA Questions
 | [0706-design-hashmap](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Two Pointers
 |  |
