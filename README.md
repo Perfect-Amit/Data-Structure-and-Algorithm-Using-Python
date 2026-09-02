@@ -132,6 +132,7 @@ Leetcode DSA Questions
 | [3731-find-missing-elements](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3731-find-missing-elements) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3838-weighted-word-mapping](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3838-weighted-word-mapping) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -237,6 +238,7 @@ Leetcode DSA Questions
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
