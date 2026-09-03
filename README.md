@@ -67,6 +67,7 @@ Leetcode DSA Questions
 | [0706-design-hashmap](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0748-shortest-completing-word](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0748-shortest-completing-word) |
 | [0806-number-of-lines-to-write-string](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0806-number-of-lines-to-write-string) |
@@ -334,6 +335,7 @@ Leetcode DSA Questions
 | [0486-predict-the-winner](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0518-coin-change-ii) |
+| [0746-min-cost-climbing-stairs](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1140-stone-game-ii) |
