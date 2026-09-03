@@ -111,6 +111,7 @@ Leetcode DSA Questions
 | [2460-apply-operations-to-an-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2460-apply-operations-to-an-array) |
 | [2540-minimum-common-value](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2540-minimum-common-value) |
 | [2573-find-the-string-with-lcp](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2573-find-the-string-with-lcp) |
+| [2574-left-and-right-sum-differences](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2784-check-if-array-is-good) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -436,6 +437,7 @@ Leetcode DSA Questions
 | [1732-find-the-highest-altitude](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2574-left-and-right-sum-differences](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2615-sum-of-distances) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Linked List
