@@ -25,6 +25,7 @@ Leetcode DSA Questions
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0174-dungeon-game](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0179-largest-number) |
 | [0213-house-robber-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0215-kth-largest-element-in-an-array) |
@@ -308,6 +309,7 @@ Leetcode DSA Questions
 | [0073-set-matrix-zeroes](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0079-word-search) |
+| [0174-dungeon-game](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0174-dungeon-game) |
 | [0289-game-of-life](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0289-game-of-life) |
 | [1260-shift-2d-grid](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1260-shift-2d-grid) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -327,6 +329,7 @@ Leetcode DSA Questions
 | [0095-unique-binary-search-trees-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0095-unique-binary-search-trees-ii) |
 | [0115-distinct-subsequences](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0174-dungeon-game](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0174-dungeon-game) |
 | [0213-house-robber-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0300-longest-increasing-subsequence) |
