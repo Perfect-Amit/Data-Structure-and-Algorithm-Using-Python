@@ -86,6 +86,7 @@ Leetcode DSA Questions
 | [0997-find-the-town-judge](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0997-find-the-town-judge) |
 | [0999-available-captures-for-rook](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0999-available-captures-for-rook) |
 | [1002-find-common-characters](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1002-find-common-characters) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1122-relative-sort-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1122-relative-sort-array) |
 | [1140-stone-game-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1260-shift-2d-grid) |
@@ -285,6 +286,7 @@ Leetcode DSA Questions
 | [0409-longest-palindrome](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0561-array-partition) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1386-cinema-seat-allocation](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2029-stone-game-ix) |
@@ -427,6 +429,7 @@ Leetcode DSA Questions
 | [0905-sort-array-by-parity](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0977-squares-of-a-sorted-array) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1122-relative-sort-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1346-check-if-n-and-its-double-exist) |
