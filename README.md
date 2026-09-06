@@ -87,6 +87,7 @@ Leetcode DSA Questions
 | [0999-available-captures-for-rook](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0999-available-captures-for-rook) |
 | [1002-find-common-characters](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1002-find-common-characters) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1089-duplicate-zeros](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1122-relative-sort-array) |
 | [1140-stone-game-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1260-shift-2d-grid) |
@@ -493,6 +494,7 @@ Leetcode DSA Questions
 | [0905-sort-array-by-parity](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2460-apply-operations-to-an-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2460-apply-operations-to-an-array) |
 | [2540-minimum-common-value](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2540-minimum-common-value) |
