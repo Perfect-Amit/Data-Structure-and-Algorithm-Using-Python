@@ -91,6 +91,7 @@ Leetcode DSA Questions
 | [1122-relative-sort-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1122-relative-sort-array) |
 | [1140-stone-game-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1140-stone-game-ii) |
 | [1184-distance-between-bus-stops](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1184-distance-between-bus-stops) |
+| [1207-unique-number-of-occurrences](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -179,6 +180,7 @@ Leetcode DSA Questions
 | [1002-find-common-characters](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1189-maximum-number-of-balloons) |
+| [1207-unique-number-of-occurrences](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1386-cinema-seat-allocation](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1386-cinema-seat-allocation) |
