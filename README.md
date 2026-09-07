@@ -50,6 +50,7 @@ Leetcode DSA Questions
 | [0485-max-consecutive-ones](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0506-relative-ranks) |
@@ -361,6 +362,7 @@ Leetcode DSA Questions
 | [0354-russian-doll-envelopes](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0354-russian-doll-envelopes) |
 | [0403-frog-jump](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0403-frog-jump) |
 | [0486-predict-the-winner](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0746-min-cost-climbing-stairs) |
@@ -384,6 +386,7 @@ Leetcode DSA Questions
 | [0093-restore-ip-addresses](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0113-path-sum-ii) |
+| [0494-target-sum](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0494-target-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Tree
 |  |
@@ -854,6 +857,7 @@ Leetcode DSA Questions
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0279-perfect-squares) |
+| [0494-target-sum](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -862,4 +866,8 @@ Leetcode DSA Questions
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1051-height-checker) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
