@@ -246,6 +246,7 @@ Leetcode DSA Questions
 | [0728-self-dividing-numbers](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0728-self-dividing-numbers) |
 | [0788-rotated-digits](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0788-rotated-digits) |
 | [0812-largest-triangle-area](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0812-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1140-stone-game-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -805,6 +806,7 @@ Leetcode DSA Questions
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0149-max-points-on-a-line) |
 | [0812-largest-triangle-area](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0812-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0836-rectangle-overlap) |
 ## Number Theory
 |  |
 | ------- |
