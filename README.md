@@ -315,6 +315,7 @@ Leetcode DSA Questions
 | [1927-sum-game](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2573-find-the-string-with-lcp](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2573-find-the-string-with-lcp) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -385,6 +386,7 @@ Leetcode DSA Questions
 | [1510-stone-game-iv](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1510-stone-game-iv) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1872-stone-game-viii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1872-stone-game-viii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2573-find-the-string-with-lcp](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2573-find-the-string-with-lcp) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -530,6 +532,7 @@ Leetcode DSA Questions
 | [1089-duplicate-zeros](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2460-apply-operations-to-an-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2460-apply-operations-to-an-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2540-minimum-common-value](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2540-minimum-common-value) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -589,6 +592,7 @@ Leetcode DSA Questions
 | [1927-sum-game](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2573-find-the-string-with-lcp](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2573-find-the-string-with-lcp) |
 | [2833-furthest-point-from-origin](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
