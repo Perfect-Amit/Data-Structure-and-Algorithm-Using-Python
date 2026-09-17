@@ -111,6 +111,7 @@ Leetcode DSA Questions
 | [1441-build-an-array-with-stack-operations](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -198,6 +199,7 @@ Leetcode DSA Questions
 | [1346-check-if-n-and-its-double-exist](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1386-cinema-seat-allocation](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1512-number-of-good-pairs) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -298,6 +300,7 @@ Leetcode DSA Questions
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0888-fair-candy-swap](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0888-fair-candy-swap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2540-minimum-common-value](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2540-minimum-common-value) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -385,6 +388,7 @@ Leetcode DSA Questions
 | [0940-distinct-subsequences-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1510-stone-game-iv) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -624,6 +628,7 @@ Leetcode DSA Questions
 | [0239-sliding-window-maximum](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0643-maximum-average-subarray-i) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1652-defuse-the-bomb](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
