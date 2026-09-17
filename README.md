@@ -235,6 +235,7 @@ Leetcode DSA Questions
 | [0227-basic-calculator-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0279-perfect-squares) |
+| [0371-sum-of-two-integers](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0371-sum-of-two-integers) |
 | [0390-elimination-game](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0390-elimination-game) |
 | [0412-fizz-buzz](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0415-add-strings) |
@@ -739,6 +740,7 @@ Leetcode DSA Questions
 | [0089-gray-code](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0089-gray-code) |
 | [0137-single-number-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0137-single-number-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0287-find-the-duplicate-number) |
+| [0371-sum-of-two-integers](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1386-cinema-seat-allocation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1684-count-the-number-of-consistent-strings) |
