@@ -57,6 +57,7 @@ Leetcode DSA Questions
 | [0500-keyboard-row](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0518-coin-change-ii) |
+| [0525-contiguous-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0575-distribute-candies) |
@@ -180,6 +181,7 @@ Leetcode DSA Questions
 | [0451-sort-characters-by-frequency](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0500-keyboard-row) |
+| [0525-contiguous-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0594-longest-harmonious-subsequence) |
@@ -504,6 +506,7 @@ Leetcode DSA Questions
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1140-stone-game-ii) |
