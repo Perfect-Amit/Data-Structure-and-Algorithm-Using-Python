@@ -43,6 +43,7 @@ Leetcode DSA Questions
 | [0354-russian-doll-envelopes](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0354-russian-doll-envelopes) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0396-rotate-function](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0403-frog-jump) |
 | [0414-third-maximum-number](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0436-find-right-interval) |
@@ -240,6 +241,7 @@ Leetcode DSA Questions
 | [0279-perfect-squares](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0279-perfect-squares) |
 | [0371-sum-of-two-integers](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0371-sum-of-two-integers) |
 | [0390-elimination-game](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0390-elimination-game) |
+| [0396-rotate-function](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0441-arranging-coins) |
@@ -387,6 +389,7 @@ Leetcode DSA Questions
 | [0300-longest-increasing-subsequence](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0354-russian-doll-envelopes) |
+| [0396-rotate-function](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0403-frog-jump) |
 | [0486-predict-the-winner](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0494-target-sum) |
