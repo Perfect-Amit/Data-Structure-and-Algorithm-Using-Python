@@ -258,6 +258,7 @@ Leetcode DSA Questions
 | [1140-stone-game-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1140-stone-game-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1512-number-of-good-pairs) |
@@ -835,6 +836,7 @@ Leetcode DSA Questions
 | [0149-max-points-on-a-line](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0149-max-points-on-a-line) |
 | [0812-largest-triangle-area](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Number Theory
 |  |
 | ------- |
