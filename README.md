@@ -172,6 +172,7 @@ Leetcode DSA Questions
 | [0128-longest-consecutive-sequence](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0160-intersection-of-two-linked-lists) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -564,6 +565,7 @@ Leetcode DSA Questions
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0215-kth-largest-element-in-an-array) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0493-reverse-pairs](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0493-reverse-pairs) |
 ## Merge Sort
 |  |
@@ -586,6 +588,7 @@ Leetcode DSA Questions
 | [0224-basic-calculator](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0273-integer-to-english-words) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0415-add-strings) |
@@ -639,6 +642,7 @@ Leetcode DSA Questions
 | [0209-minimum-size-subarray-sum](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0209-minimum-size-subarray-sum) |
 | [0220-contains-duplicate-iii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0239-sliding-window-maximum) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0643-maximum-average-subarray-i) |
