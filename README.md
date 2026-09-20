@@ -34,6 +34,7 @@ Leetcode DSA Questions
 | [0228-summary-ranges](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0239-sliding-window-maximum) |
+| [0260-single-number-iii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0287-find-the-duplicate-number) |
@@ -768,6 +769,7 @@ Leetcode DSA Questions
 | ------- |
 | [0089-gray-code](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0089-gray-code) |
 | [0137-single-number-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0645-set-mismatch) |
