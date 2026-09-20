@@ -56,6 +56,7 @@ Leetcode DSA Questions
 | [0494-target-sum](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0500-keyboard-row) |
+| [0503-next-greater-element-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0525-contiguous-array) |
@@ -717,6 +718,7 @@ Leetcode DSA Questions
 | [0227-basic-calculator-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0227-basic-calculator-ii) |
 | [0445-add-two-numbers-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0682-baseball-game) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -794,6 +796,7 @@ Leetcode DSA Questions
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0503-next-greater-element-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Breadth-First Search
 |  |
