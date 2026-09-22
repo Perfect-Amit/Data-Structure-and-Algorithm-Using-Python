@@ -41,6 +41,7 @@ Leetcode DSA Questions
 | [0289-game-of-life](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0322-coin-change) |
+| [0327-count-of-range-sum](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0327-count-of-range-sum) |
 | [0354-russian-doll-envelopes](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0354-russian-doll-envelopes) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -311,6 +312,7 @@ Leetcode DSA Questions
 | [0275-h-index-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0300-longest-increasing-subsequence) |
+| [0327-count-of-range-sum](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0327-count-of-range-sum) |
 | [0354-russian-doll-envelopes](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0354-russian-doll-envelopes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0436-find-right-interval) |
@@ -583,12 +585,14 @@ Leetcode DSA Questions
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0215-kth-largest-element-in-an-array) |
+| [0327-count-of-range-sum](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0327-count-of-range-sum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0493-reverse-pairs](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0493-reverse-pairs) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0148-sort-list) |
+| [0327-count-of-range-sum](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0493-reverse-pairs) |
 ## String
 |  |
@@ -684,6 +688,7 @@ Leetcode DSA Questions
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0220-contains-duplicate-iii) |
+| [0327-count-of-range-sum](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0493-reverse-pairs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -840,10 +845,12 @@ Leetcode DSA Questions
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0327-count-of-range-sum](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
+| [0327-count-of-range-sum](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0493-reverse-pairs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Combinatorics
@@ -950,4 +957,8 @@ Leetcode DSA Questions
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0796-rotate-string) |
+## Treap
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0327-count-of-range-sum) |
 <!---LeetCode Topics End-->
