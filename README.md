@@ -248,6 +248,7 @@ Leetcode DSA Questions
 | [0227-basic-calculator-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0279-perfect-squares) |
+| [0282-expression-add-operators](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0282-expression-add-operators) |
 | [0371-sum-of-two-integers](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0371-sum-of-two-integers) |
 | [0390-elimination-game](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0396-rotate-function) |
@@ -431,6 +432,7 @@ Leetcode DSA Questions
 | [0093-restore-ip-addresses](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0113-path-sum-ii) |
+| [0282-expression-add-operators](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0282-expression-add-operators) |
 | [0494-target-sum](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0494-target-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Tree
@@ -604,6 +606,7 @@ Leetcode DSA Questions
 | [0224-basic-calculator](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0273-integer-to-english-words) |
+| [0282-expression-add-operators](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0282-expression-add-operators) |
 | [0299-bulls-and-cows](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0299-bulls-and-cows) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0409-longest-palindrome) |
