@@ -208,6 +208,7 @@ Leetcode DSA Questions
 | [0929-unique-email-addresses](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0929-unique-email-addresses) |
 | [0997-find-the-town-judge](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1002-find-common-characters) |
+| [1096-brace-expansion-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1096-brace-expansion-ii) |
 | [1122-relative-sort-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1207-unique-number-of-occurrences) |
@@ -440,6 +441,7 @@ Leetcode DSA Questions
 | [0113-path-sum-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0113-path-sum-ii) |
 | [0282-expression-add-operators](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0282-expression-add-operators) |
 | [0494-target-sum](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0494-target-sum) |
+| [1096-brace-expansion-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Tree
 |  |
@@ -504,6 +506,7 @@ Leetcode DSA Questions
 | [0977-squares-of-a-sorted-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1051-height-checker) |
+| [1096-brace-expansion-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1096-brace-expansion-ii) |
 | [1122-relative-sort-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1331-rank-transform-of-an-array) |
@@ -638,6 +641,7 @@ Leetcode DSA Questions
 | [0929-unique-email-addresses](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0929-unique-email-addresses) |
 | [0940-distinct-subsequences-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0940-distinct-subsequences-ii) |
 | [1002-find-common-characters](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1002-find-common-characters) |
+| [1096-brace-expansion-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1189-maximum-number-of-balloons) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1624-largest-substring-between-two-equal-characters) |
@@ -740,6 +744,7 @@ Leetcode DSA Questions
 | [0496-next-greater-element-i](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0682-baseball-game) |
+| [1096-brace-expansion-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1096-brace-expansion-ii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Simulation
@@ -830,6 +835,7 @@ Leetcode DSA Questions
 | [0322-coin-change](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0322-coin-change) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0733-flood-fill) |
+| [1096-brace-expansion-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3310-remove-methods-from-project) |
 ## Queue
 |  |
