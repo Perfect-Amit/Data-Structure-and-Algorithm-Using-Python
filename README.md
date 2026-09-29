@@ -138,6 +138,7 @@ Leetcode DSA Questions
 | [2029-stone-game-ix](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2460-apply-operations-to-an-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2460-apply-operations-to-an-array) |
 | [2540-minimum-common-value](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2540-minimum-common-value) |
 | [2573-find-the-string-with-lcp](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2573-find-the-string-with-lcp) |
@@ -390,6 +391,7 @@ Leetcode DSA Questions
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2573-find-the-string-with-lcp](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2573-find-the-string-with-lcp) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -427,6 +429,7 @@ Leetcode DSA Questions
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1872-stone-game-viii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2573-find-the-string-with-lcp](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2573-find-the-string-with-lcp) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -991,4 +994,5 @@ Leetcode DSA Questions
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
