@@ -402,6 +402,7 @@ Leetcode DSA Questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0087-scramble-string) |
@@ -442,6 +443,7 @@ Leetcode DSA Questions
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0089-gray-code) |
@@ -615,6 +617,7 @@ Leetcode DSA Questions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0022-generate-parentheses) |
 | [0065-valid-number](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0065-valid-number) |
 | [0072-edit-distance](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0076-minimum-window-substring) |
@@ -1001,6 +1004,7 @@ Leetcode DSA Questions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
