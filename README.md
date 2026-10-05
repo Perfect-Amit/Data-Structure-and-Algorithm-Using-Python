@@ -344,6 +344,7 @@ Leetcode DSA Questions
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0179-largest-number) |
+| [0397-integer-replacement](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0397-integer-replacement) |
 | [0409-longest-palindrome](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0561-array-partition) |
@@ -419,6 +420,7 @@ Leetcode DSA Questions
 | [0322-coin-change](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0354-russian-doll-envelopes) |
 | [0396-rotate-function](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0396-rotate-function) |
+| [0397-integer-replacement](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0403-frog-jump) |
 | [0486-predict-the-winner](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0494-target-sum) |
@@ -829,6 +831,7 @@ Leetcode DSA Questions
 | [0260-single-number-iii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0371-sum-of-two-integers) |
+| [0397-integer-replacement](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0397-integer-replacement) |
 | [0476-number-complement](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1386-cinema-seat-allocation) |
@@ -971,6 +974,7 @@ Leetcode DSA Questions
 ## Memoization
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0509-fibonacci-number) |
 ## Euclidean Algorithm
 |  |
