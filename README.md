@@ -655,6 +655,7 @@ Leetcode DSA Questions
 | [0806-number-of-lines-to-write-string](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0821-shortest-distance-to-a-character) |
+| [0856-score-of-parentheses](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0856-score-of-parentheses) |
 | [0859-buddy-strings](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0929-unique-email-addresses](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0929-unique-email-addresses) |
@@ -770,6 +771,7 @@ Leetcode DSA Questions
 | [0496-next-greater-element-i](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0682-baseball-game) |
+| [0856-score-of-parentheses](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -1011,6 +1013,7 @@ Leetcode DSA Questions
 | [0020-valid-parentheses](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
