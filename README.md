@@ -831,6 +831,7 @@ Leetcode DSA Questions
 | ------- |
 | [0089-gray-code](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0089-gray-code) |
 | [0137-single-number-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0137-single-number-ii) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0260-single-number-iii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0371-sum-of-two-integers) |
