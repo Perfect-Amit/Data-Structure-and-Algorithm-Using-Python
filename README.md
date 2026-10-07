@@ -347,6 +347,7 @@ Leetcode DSA Questions
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0179-largest-number) |
+| [0316-remove-duplicate-letters](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0316-remove-duplicate-letters) |
 | [0397-integer-replacement](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0397-integer-replacement) |
 | [0409-longest-palindrome](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0455-assign-cookies) |
@@ -645,6 +646,7 @@ Leetcode DSA Questions
 | [0273-integer-to-english-words](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0282-expression-add-operators) |
 | [0299-bulls-and-cows](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0299-bulls-and-cows) |
+| [0316-remove-duplicate-letters](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0316-remove-duplicate-letters) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0412-fizz-buzz) |
@@ -777,6 +779,7 @@ Leetcode DSA Questions
 | [0032-longest-valid-parentheses](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0032-longest-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0227-basic-calculator-ii) |
+| [0316-remove-duplicate-letters](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0316-remove-duplicate-letters) |
 | [0445-add-two-numbers-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0503-next-greater-element-ii) |
@@ -869,6 +872,7 @@ Leetcode DSA Questions
 ## Monotonic Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0503-next-greater-element-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
