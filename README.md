@@ -466,6 +466,7 @@ Leetcode DSA Questions
 | [0095-unique-binary-search-trees-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0113-path-sum-ii) |
 | [0282-expression-add-operators](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0282-expression-add-operators) |
+| [0306-additive-number](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0306-additive-number) |
 | [0494-target-sum](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -650,6 +651,7 @@ Leetcode DSA Questions
 | [0273-integer-to-english-words](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0282-expression-add-operators) |
 | [0299-bulls-and-cows](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0299-bulls-and-cows) |
+| [0306-additive-number](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0316-remove-duplicate-letters) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0409-longest-palindrome) |
