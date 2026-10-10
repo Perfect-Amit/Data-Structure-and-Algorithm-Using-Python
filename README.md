@@ -264,6 +264,7 @@ Leetcode DSA Questions
 | [0273-integer-to-english-words](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0282-expression-add-operators) |
+| [0319-bulb-switcher](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0319-bulb-switcher) |
 | [0371-sum-of-two-integers](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0371-sum-of-two-integers) |
 | [0390-elimination-game](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0396-rotate-function) |
@@ -1060,4 +1061,8 @@ Leetcode DSA Questions
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
