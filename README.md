@@ -184,6 +184,7 @@ Leetcode DSA Questions
 | [0076-minimum-window-substring](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0126-word-ladder-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0149-max-points-on-a-line) |
@@ -472,6 +473,7 @@ Leetcode DSA Questions
 | [0093-restore-ip-addresses](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0113-path-sum-ii) |
+| [0126-word-ladder-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0126-word-ladder-ii) |
 | [0282-expression-add-operators](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0282-expression-add-operators) |
 | [0306-additive-number](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0306-additive-number) |
 | [0494-target-sum](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0494-target-sum) |
@@ -652,6 +654,7 @@ Leetcode DSA Questions
 | [0091-decode-ways](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0115-distinct-subsequences) |
+| [0126-word-ladder-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0179-largest-number) |
@@ -904,6 +907,7 @@ Leetcode DSA Questions
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0126-word-ladder-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0279-perfect-squares) |
@@ -1073,5 +1077,6 @@ Leetcode DSA Questions
 ## Bidirectional Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
