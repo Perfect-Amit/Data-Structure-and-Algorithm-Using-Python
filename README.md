@@ -149,6 +149,7 @@ Leetcode DSA Questions
 | [2778-sum-of-squares-of-special-elements](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2784-check-if-array-is-good) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -242,6 +243,7 @@ Leetcode DSA Questions
 | [2784-check-if-array-is-good](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -956,12 +958,14 @@ Leetcode DSA Questions
 | ------- |
 | [0327-count-of-range-sum](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0493-reverse-pairs) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0493-reverse-pairs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Combinatorics
 |  |
 | ------- |
