@@ -273,6 +273,7 @@ Leetcode DSA Questions
 | [0279-perfect-squares](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0282-expression-add-operators) |
 | [0319-bulb-switcher](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0319-bulb-switcher) |
+| [0343-integer-break](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0343-integer-break) |
 | [0371-sum-of-two-integers](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0371-sum-of-two-integers) |
 | [0390-elimination-game](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0396-rotate-function) |
@@ -448,6 +449,7 @@ Leetcode DSA Questions
 | [0300-longest-increasing-subsequence](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0337-house-robber-iii) |
+| [0343-integer-break](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0343-integer-break) |
 | [0354-russian-doll-envelopes](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0354-russian-doll-envelopes) |
 | [0396-rotate-function](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0397-integer-replacement) |
