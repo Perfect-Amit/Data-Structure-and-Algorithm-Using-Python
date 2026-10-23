@@ -292,6 +292,7 @@ Leetcode DSA Questions
 | [0504-base-7](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0509-fibonacci-number) |
+| [0556-next-greater-element-iii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0556-next-greater-element-iii) |
 | [0598-range-addition-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0728-self-dividing-numbers) |
@@ -635,6 +636,7 @@ Leetcode DSA Questions
 | [0295-find-median-from-data-stream](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0541-reverse-string-ii) |
+| [0556-next-greater-element-iii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0556-next-greater-element-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0821-shortest-distance-to-a-character) |
 | [0876-middle-of-the-linked-list](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0876-middle-of-the-linked-list) |
@@ -703,6 +705,7 @@ Leetcode DSA Questions
 | [0500-keyboard-row](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0504-base-7) |
 | [0541-reverse-string-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0541-reverse-string-ii) |
+| [0556-next-greater-element-iii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0556-next-greater-element-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0680-valid-palindrome-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0709-to-lower-case) |
