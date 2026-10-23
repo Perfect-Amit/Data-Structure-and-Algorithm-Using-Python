@@ -64,6 +64,7 @@ Leetcode DSA Questions
 | [0525-contiguous-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0561-array-partition) |
+| [0565-array-nesting](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0565-array-nesting) |
 | [0575-distribute-candies](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0598-range-addition-ii) |
@@ -887,6 +888,7 @@ Leetcode DSA Questions
 | [0207-course-schedule](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0337-house-robber-iii) |
+| [0565-array-nesting](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0565-array-nesting) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0733-flood-fill) |
 | [3310-remove-methods-from-project](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3310-remove-methods-from-project) |
