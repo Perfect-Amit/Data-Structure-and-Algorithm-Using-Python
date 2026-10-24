@@ -716,6 +716,7 @@ Leetcode DSA Questions
 | [0806-number-of-lines-to-write-string](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0821-shortest-distance-to-a-character) |
+| [0830-positions-of-large-groups](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0830-positions-of-large-groups) |
 | [0856-score-of-parentheses](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0856-score-of-parentheses) |
 | [0859-buddy-strings](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0884-uncommon-words-from-two-sentences) |
