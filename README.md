@@ -108,6 +108,7 @@ Leetcode DSA Questions
 | [1184-distance-between-bus-stops](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1184-distance-between-bus-stops) |
 | [1200-minimum-absolute-difference](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1207-unique-number-of-occurrences) |
+| [1254-number-of-closed-islands](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1260-shift-2d-grid) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -428,6 +429,7 @@ Leetcode DSA Questions
 | [0733-flood-fill](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0835-image-overlap) |
 | [0999-available-captures-for-rook](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0999-available-captures-for-rook) |
+| [1254-number-of-closed-islands](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1260-shift-2d-grid) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -873,6 +875,7 @@ Leetcode DSA Questions
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0128-longest-consecutive-sequence) |
+| [1254-number-of-closed-islands](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1254-number-of-closed-islands) |
 | [2573-find-the-string-with-lcp](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2573-find-the-string-with-lcp) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Recursion
@@ -897,6 +900,7 @@ Leetcode DSA Questions
 | [0565-array-nesting](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0565-array-nesting) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0733-flood-fill) |
+| [1254-number-of-closed-islands](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3310-remove-methods-from-project) |
 ## Bit Manipulation
 |  |
@@ -954,6 +958,7 @@ Leetcode DSA Questions
 | [0637-average-of-levels-in-binary-tree](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0733-flood-fill) |
 | [1096-brace-expansion-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3310-remove-methods-from-project) |
 ## Queue
 |  |
