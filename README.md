@@ -94,6 +94,7 @@ Leetcode DSA Questions
 | [0888-fair-candy-swap](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0888-fair-candy-swap) |
 | [0896-monotonic-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0905-sort-array-by-parity) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0922-sort-array-by-parity-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0922-sort-array-by-parity-ii) |
 | [0929-unique-email-addresses](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0929-unique-email-addresses) |
 | [0977-squares-of-a-sorted-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0977-squares-of-a-sorted-array) |
@@ -224,6 +225,7 @@ Leetcode DSA Questions
 | [0859-buddy-strings](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0888-fair-candy-swap](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0888-fair-candy-swap) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0929-unique-email-addresses](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0929-unique-email-addresses) |
 | [0997-find-the-town-judge](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1002-find-common-characters) |
@@ -302,6 +304,7 @@ Leetcode DSA Questions
 | [0812-largest-triangle-area](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0877-stone-game) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1140-stone-game-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1140-stone-game-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -806,6 +809,7 @@ Leetcode DSA Questions
 | [0594-longest-harmonious-subsequence](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0594-longest-harmonious-subsequence) |
 | [0819-most-common-word](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1051-height-checker](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1189-maximum-number-of-balloons) |
@@ -1018,6 +1022,7 @@ Leetcode DSA Questions
 ## Number Theory
 |  |
 | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -1071,11 +1076,13 @@ Leetcode DSA Questions
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0149-max-points-on-a-line) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0149-max-points-on-a-line) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Knapsack Problem
 |  |
