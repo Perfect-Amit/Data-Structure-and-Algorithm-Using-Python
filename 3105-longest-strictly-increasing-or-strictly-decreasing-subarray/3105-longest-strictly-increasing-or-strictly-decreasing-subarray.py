@@ -7,11 +7,9 @@ class Solution:
             if nums[i] > nums[i-1]:
                 count_inc += 1
                 count_dec = 1
-                temp=max(count_inc, count_dec, temp)
             elif nums[i] < nums[i-1]:
                 count_dec += 1
                 count_inc = 1
-                temp=max(count_inc, count_dec, temp)
             else:
                 count_inc = 1
                 count_dec = 1
