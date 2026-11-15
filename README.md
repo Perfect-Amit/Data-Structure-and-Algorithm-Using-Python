@@ -174,6 +174,7 @@ Leetcode DSA Questions
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -640,6 +641,7 @@ Leetcode DSA Questions
 | [2574-left-and-right-sum-differences](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2615-sum-of-distances) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3904-smallest-stable-index-ii) |
 ## Linked List
@@ -819,6 +821,7 @@ Leetcode DSA Questions
 | [2932-maximum-strong-pair-xor-i](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3364-minimum-positive-sum-subarray) |
 ## Bucket Sort
 |  |
 | ------- |
