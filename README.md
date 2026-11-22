@@ -776,6 +776,7 @@ Leetcode DSA Questions
 | [1927-sum-game](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2573-find-the-string-with-lcp](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2573-find-the-string-with-lcp) |
 | [2833-furthest-point-from-origin](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2833-furthest-point-from-origin) |
@@ -904,6 +905,7 @@ Leetcode DSA Questions
 | [0999-available-captures-for-rook](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0999-available-captures-for-rook) |
 | [1260-shift-2d-grid](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/1441-build-an-array-with-stack-operations) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2460-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
