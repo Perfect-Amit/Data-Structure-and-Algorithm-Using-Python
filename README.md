@@ -202,6 +202,7 @@ Leetcode DSA Questions
 | [3886-sum-of-sortable-integers](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
@@ -287,6 +288,7 @@ Leetcode DSA Questions
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3731-find-missing-elements) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3934-smallest-unique-subarray](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3934-smallest-unique-subarray) |
 ## Math
 |  |
 | ------- |
@@ -399,6 +401,7 @@ Leetcode DSA Questions
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3934-smallest-unique-subarray](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3934-smallest-unique-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -996,6 +999,7 @@ Leetcode DSA Questions
 | ------- |
 | [0705-design-hashset](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0706-design-hashmap) |
+| [3934-smallest-unique-subarray](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3934-smallest-unique-subarray) |
 ## Enumeration
 |  |
 | ------- |
@@ -1206,4 +1210,12 @@ Leetcode DSA Questions
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/0337-house-robber-iii) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Perfect-Amit/Data-Structure-and-Algorithm-Using-Python/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
